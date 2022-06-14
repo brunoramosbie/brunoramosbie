@@ -1,7 +1,7 @@
 ## Olá, sou Bruno Vinícius Ramos
 
-- 🔭 Estudando Analise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estudando ADS e trabalhando na criação de um site para a marcenaria SobMedida utilizando HTML, CSS e JS
+- 🔭 Estudando Engenharia da Computação
+- 🌱 Atualmente estudando algumas linguagens e trabalhando na criação de um site para a marcenaria SobMedida utilizando HTML, CSS e JS
 - 🤔 Programação em geral, toda ajuda nesse meio é sempre bem vinda! 😁
 - 💬 Vou deixar meu perfil do Insta e linkedin, aparece lá pra dar um oi!
 - 📫 Linkedin: www.linkedin.com/in/bruno-vinícius-ramos / e-mail: brunoviniciusramos@hotmail.com
